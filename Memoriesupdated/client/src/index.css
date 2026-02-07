@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+
+    background: linear-gradient(
+        140deg,
+        #eef2ff 0%,
+        #e0e7ff 50%,
+        #f8fafc 100%
+    );
+}
+
+* {
+    font-family: 'Heebo', sans-serif !important;
+}
